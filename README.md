@@ -1,5 +1,5 @@
 # Cryptography
-Cryptography in Python
+## Cryptography in Python
 This repository will show Python implementations of various ciphers. Currently only block ciphers ECB (Electronic Code Book) and CBC (Cipher Block Chaining) are shown.
 The user needs to create a key (16 ASCII chars) and find an image. After running the script with 
 ```python block.py``` the user will be able to understand, why ECB is not
